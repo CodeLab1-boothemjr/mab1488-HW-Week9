@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.War.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Unity\Repos\CodeLab1\Week9\mab1488-HW-Week9\War\.idea\.idea.War\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
